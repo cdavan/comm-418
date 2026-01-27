@@ -1,0 +1,8 @@
+Dear Editor (Professor Francis), 
+For my next assignment, I would like to pitch a story on recycling in the United States. I would like to look into how successful recycling is in different states depending on legislation towards recycling. 
+My question is: how does recycling success in each state vary across the United States?
+Here is a link to a dataset with information regarding recycling in all 50 states: https://www.ball.com/getmedia/eb3620b7-e8af-44af-83cd-fb8606753600/50-STATES_2023-V12.pdf
+I found this pdf presentation to be extremely helpful. On slides 5, 15, 16, and 17, show breakdowns of items being recycled and percentages of how well each state are recycling. It also has independent state case studies. For example, it breaks down Washington's percentages of each type of recycled item. I think this data can be helpful when looking into trends of which specific recyclable items are most commonly thrown away properly in comparison to others. When looking into vetting the information, the last slides consist of a lot of helpful information. It starts with defining many key terms used in order to understand the data and how it is communicated. It also has extensive footnotes listing how the information was put into the data such as FOIAs, scholarly research, and government data (mainly from DPWs) that did not require a FOIA.  It also had links attached to the footnotes that opened the door to other datasets that may be helpful in the future. 
+I hope you take a look at the data and find it supportive to my question. I hope to hear back from you soon!
+Thank you,
+Colin Davan
