@@ -1,0 +1,4 @@
+# Story
+https://www.washingtonpost.com/sports/olympics/interactive/2026/winter-olympics-climate-change/?itid=sf_sports_package-1_1_2
+## About the story
+This is a story published by the Washington Post about how the climate is having an impact upon Olympic locations. It features interactive graphics like the globe and year changer, line charts, and bar charts. I thought it was really interesting how they incorporated the data. This could have been a normal written article similar to others on the Washington Post site. However, by incorporating the interactive data, it can grab peoples attention and learn through participation. On a topic of great serverity, it is smart decision to grab the readers attention on this issue and gain a better understanding of the climate situation. This article is extremely timely with the Milan Winter Olympics starting very soon. It is a good story that is carried by thorough environmental research. 
