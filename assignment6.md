@@ -8,6 +8,8 @@ Note: Google sheets would not let me add a note.
 
 Note: The goals and assists come from league games and excludes European tournaments.
 
+Source: https://docs.google.com/spreadsheets/d/1qaM2vKFcYM7R-kDmfg4-gAgubRbxm6t5Kt0Enu0myWc/edit?usp=sharing
+
 The way the forward position is utilized can determine team tactics and physical size of a player. With bigger and faster physical forwards, the ball is played down field because these players may lack dribbling and passing skills that a midfielder or winger would have. Usually with a through ball or kick over the head of defenders, the large forwards can run onto the ball and essentially just take a couple touches before shooting.
 
 Physically smaller forwards usually carry much stronger technical ability on the ball. As the ball is passed around the field, these forwards get involved in the “build-up play”. This is a much less direct style of play that focuses on movement. By passing the ball around, moving into different spaces, and dribbling help make this style of play work. With a larger forward that lacks in passing and dribbling skills, it may be difficult to have offensive success under a coach that operates with these tactics.
