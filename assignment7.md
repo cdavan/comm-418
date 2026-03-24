@@ -10,6 +10,7 @@ While thinking of the top defensive statistics, many soccer fans may shoot to th
 <img width="602" height="367" alt="Screenshot 2026-03-24 at 4 59 03 PM" src="https://github.com/user-attachments/assets/e4d209a4-b100-40bd-82ea-e79741d54472" />
 Source: https://www.kaggle.com/datasets/hubertsidorowicz/football-players-stats-2024-2025?resource=download
 
+
 With over 3,100 minutes played in the 2024-25 soccer season, these full-backs made an impact on the defensive end of the field. Each of these players play in top leagues like Serie A in Italy, the Premier League in England, and LaLiga in Spain. Every match they line up against the best in the world. 
 
 Pass interceptions demonstrate focus and attention to game details. These interceptions can shut down short passes leading to goals, cross field switches to break down defenses, and long through balls in pockets where counter attacks can damage teams. With the level of top wingers, it is crucial for high interception rates on the wings. 
