@@ -49,7 +49,7 @@ Looking at the same list of midfielders in the previous visual in a different vi
 
 Those who had lower goals and assists, tended to amount to a stark increase of progressive passes compared to the others. These players usually stood as the best central defensive midfielders in this data.
 
-# Defenders
+## Defenders
 
 When looking for the best possible defender position, there are many things to consider. This position is extremely important and dynamic to the formation at each end of the field. From attacking, these players can add exterior layers and dimensions to a match. 
 
@@ -65,7 +65,7 @@ With a high tackle rating, it shows fearlessness, but also carelessness. The tac
 
 Defenders and midfielders may have to move out of position to support a player who cannot make the important interceptions or win tackles. This out of position formation leads to errors and conceding goals; Therefore, it is crucial the full-back is always sharp for the best.
 
-# Goalkeepers
+## Goalkeepers
 
 Finding the best goalkeeper can feature many different skill sets and results. Looking at clean sheets, in which a goalkeeper does not allow a goal might not be as important as a save percentage due to a better defensive force in front of the net.
 
